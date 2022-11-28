@@ -9,8 +9,8 @@ rodar o script em python.
 
 O scrip possui uma interface baseada em perguntas. Basta responder as perguntas conforma a descrição para realizar a personalização da sua VPC.
 
-[teste do software](https://www.youtube.com/playlist?list=PLsVpiC1hnxCo3vSf9kxCaUWIA0sNj8Djd)
-[teste do H.A](https://www.youtube.com/playlist?list=PLsVpiC1hnxCpovxvp4CHmBNRxXt6iIHf5)
+- [teste do software](https://www.youtube.com/playlist?list=PLsVpiC1hnxCo3vSf9kxCaUWIA0sNj8Djd)
+- [teste do H.A](https://www.youtube.com/playlist?list=PLsVpiC1hnxCpovxvp4CHmBNRxXt6iIHf5)
 
 ## Roteiro do projeto
 
